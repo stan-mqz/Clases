@@ -1,4 +1,3 @@
-javascript
 //Solicitar al usuario una contraseña y verificar si esta es correcta o no
 
 import readline from 'readline'
